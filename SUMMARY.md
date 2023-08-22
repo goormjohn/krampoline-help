@@ -77,6 +77,7 @@
       * [1. 배포에 사용할 Ingress IP 확인 및 URL 발급](ide/kakao-cloud/url/1.-ingress-ip-url.md)
     * [※ 주의 사항](ide/kakao-cloud/undefined/README.md)
       * [1. Frontend 배포에 사용할 소스코드에는 static path 관련 설정이 필요합니다.](ide/kakao-cloud/undefined/1.-frontend-static-path-..md)
+      * [2. D2Hub, Kargo는 Krampoline IDE의 실습 환경이 아닌, github 소스저장소와 연동됩니다.](ide/kakao-cloud/undefined/2.-d2hub-kargo-krampoline-ide-github-..md)
     * [D2Hub를 활용한 이미지 빌드](ide/kakao-cloud/d2hub.md)
     * [Kargo를 활용한 App 배포](ide/kakao-cloud/kargo.md)
     * [DKOS 배포 APP의 외부 접속 URL 등록](ide/kakao-cloud/dkos.md)
