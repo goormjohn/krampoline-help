@@ -28,7 +28,7 @@ C, C++, C#, JAVA, Go, Arduino 프로젝트는 코드를 작성한 후 빌드 해
 
 * \[명령어] 탭의 빌드 항목 하위 요소를 더블 클릭 후 명령어 창 우측 하단 `실행` 버튼을 클릭하면 추가한 빌드 명령어를 실행할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 빌드 및 실행 설정
 

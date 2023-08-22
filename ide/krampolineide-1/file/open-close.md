@@ -42,7 +42,7 @@ Vim 에디터를 열기 위해서는 크램폴린IDE 좌측 레이아웃의 프�
 그러면 터미널 대신에 편집 환경이 Vim으로 세팅된 에디터가 열립니다. \
 에디터에서 Vim 단축키를 그대로 이용하실 수 있으며, 사용 방법도 Vim과 동일합니다.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
 
