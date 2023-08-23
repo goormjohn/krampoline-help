@@ -12,15 +12,15 @@ $ kubectl exec -it mariadb-0 -- /bin/bash
 ```
 
 Pod에 진입했다면, 다음 명령어를 통해 해당 db 인스턴스에 mysql로 접속합니다.\
-아래는 root 사용자로 kakao database에 접근하는 커맨드입니다.
+아래는 root 사용자로 krampoline database에 접근하는 커맨드입니다.
 
 ```bash
-$ mysql -h mariadb-0.mariadb -u root -p kakao
+$ mysql -h mariadb-0.mariadb -u root -p krampoline
 Enter password: -> 비밀번호 입력
 ```
 
 이제 커맨드 라인이 다음과 같이 변하며, sql을 실행할 수 있습니다.
 
 ```bash
-MariaDB [kakao]>
+MariaDB [krampoline]>
 ```
