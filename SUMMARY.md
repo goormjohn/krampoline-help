@@ -70,7 +70,7 @@
     * [Kargo App 배포](ide/kakao-cloud/kargo-app/README.md)
       * [1. Kargo 배포 구성 파일 작성](ide/kakao-cloud/kargo-app/1.-kargo.md)
       * [2. Kargo App 생성](ide/kakao-cloud/kargo-app/2.-kargo-app.md)
-      * [3. 쿠버네티스 구성 파일의 유효성 확인.](ide/kakao-cloud/kargo-app/3.-..md)
+      * [3. 쿠버네티스 구성 파일의 유효성 확인](ide/kakao-cloud/kargo-app/3..md)
       * [4. DKOS 클러스터 배포](ide/kakao-cloud/kargo-app/4.-dkos.md)
     * [DKOS 배포 APP의 외부 접속 URL 등록](ide/kakao-cloud/dkos-app-url/README.md)
       * [1. Ingress IP 확인 및 URL 발급](ide/kakao-cloud/dkos-app-url/1.-ingress-ip-url.md)
