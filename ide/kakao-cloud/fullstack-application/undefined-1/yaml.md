@@ -31,6 +31,7 @@ spec:
         spec:
             containers:
                 - name: frontend
+                  # 여러분의 image 주소를 입력해주세요.
                   image: krmp-d2hub-idock.9rum.cc/goorm/techcamp-frontend
                   ports:
                       - containerPort: 80
@@ -60,7 +61,8 @@ spec:
                   - backend:
                         serviceName: frontend-service
                         servicePort: 80
-                    path: /kfed0910e2e37a(/|$)(.*)
+                        # 여러분의 app path를 넣어주세요.
+                        path: /kfed0910e2e37a(/|$)(.*)
 ```
 
 위 조치를 통해 **/\[uid]/subpath** 형태로 들어온 요청을 특정 서비스 객체에 포워딩 하도록 설정되었습니다.
