@@ -52,6 +52,8 @@ Backend의 Deployment 객체의 경우 backend.yaml에 위치해있고, 동일�
 아래는 nginx.yaml 파일에 위치한 Ingress 객체의 작성 예시입니다.\
 spec.rules의 http.paths의 backend 항목에서 path 정보를 Kargo App에 연결된 uid로 수정해야 합니다.
 
+**\*\*추후 업데이트 시 nginx.yaml 파일 수정 부분은 제거될 수 있습니다. 업데이트 후에는 조치하지 않아도 됩니다.\*\***
+
 ```yaml
 apiVersion: networking.k8s.io/v1beta1
 kind: Ingress
