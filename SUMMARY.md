@@ -77,6 +77,7 @@
     * [배포시 주의 사항](ide/kakao-cloud/undefined/README.md)
       * [1. Static Path 관련 설정](ide/kakao-cloud/undefined/1.-static-path.md)
       * [2. 이미지 재빌드 및 재배포 방법](ide/kakao-cloud/undefined/2..md)
+      * [3. 프록시 적용 방법](ide/kakao-cloud/undefined/3..md)
     * [Fullstack Application 배포를 위한 추가 가이드](ide/kakao-cloud/fullstack-application/README.md)
       * [DKOS에 배포된 풀스택 어플리케이션 구조](ide/kakao-cloud/fullstack-application/dkos.md)
       * [기본 구성에 포함된 쿠버네티스 구조](ide/kakao-cloud/fullstack-application/undefined/README.md)
