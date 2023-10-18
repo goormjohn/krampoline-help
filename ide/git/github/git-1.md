@@ -16,4 +16,4 @@
 
 * 이 설정 메뉴에서 **유저 정보, ignore 관리, 원격 저장소, SCM 폴더** 등을 설정할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
