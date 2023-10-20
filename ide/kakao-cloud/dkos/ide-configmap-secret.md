@@ -1,6 +1,6 @@
-# 크램폴린IDE ConfigMap, secret 사용하기
+# 크램폴린IDE ConfigMap, Secret 사용하기
 
-## 크램폴린IDE ConfigMap, secret 사용하기
+## 크램폴린IDE ConfigMap, Secret 사용하기
 
 API를 개발하다보면 민감한 정보들이 필요합니다. 현재 크램폴린IDE는 보통 github 기반으로 하고 있는데요. 지금부터 github 에 올리지 않고, IDE 안에서 secret 키나, config 를 사용하는 방법을 가르쳐 드리려고 합니다.
 
