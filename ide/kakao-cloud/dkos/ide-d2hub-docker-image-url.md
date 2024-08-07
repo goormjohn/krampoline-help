@@ -1,4 +1,4 @@
-# krampoline IDE - D2Hub 에서 사용가능한 Docker Image URL
+# 크램폴린IDE - D2Hub 에서 사용가능한 Docker Image URL
 
 #### node
 

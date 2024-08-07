@@ -78,7 +78,7 @@
       * [D2hub 이미지 재빌드 및 재배포 방법](ide/kakao-cloud/dkos/d2hub.md)
       * [Proxy 적용 방법](ide/kakao-cloud/dkos/proxy.md)
       * [크램폴린IDE ConfigMap, Secret 사용하기](ide/kakao-cloud/dkos/ide-configmap-secret.md)
-      * [krampoline IDE - D2Hub 에서 사용가능한 Docker Image URL](ide/kakao-cloud/dkos/krampoline-ide-d2hub-docker-image-url.md)
+      * [크램폴린IDE - D2Hub 에서 사용가능한 Docker Image URL](ide/kakao-cloud/dkos/ide-d2hub-docker-image-url.md)
     * [Fullstack Application 배포를 위한 추가 가이드](ide/kakao-cloud/fullstack-application/README.md)
       * [DKOS에 배포된 풀스택 어플리케이션 구조](ide/kakao-cloud/fullstack-application/dkos.md)
       * [기본 구성에 포함된 쿠버네티스 구조](ide/kakao-cloud/fullstack-application/undefined/README.md)

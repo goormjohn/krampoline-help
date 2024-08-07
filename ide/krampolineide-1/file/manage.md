@@ -19,9 +19,9 @@
 
 <figure><img src="../../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
 
+***
 
-
-
+***
 
 ### **파일 내보내기(Export a File)**
 
@@ -35,7 +35,7 @@ IDE에서 사용자 컴퓨터로 파일을 다운로드합니다.
 
 <figure><img src="../../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
 
-
+***
 
 ### **폴더 내보내기(Export a Folder)**
 
@@ -46,7 +46,7 @@ IDE에서 사용자 컴퓨터로 파일을 다운로드합니다.
 
 <figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-
+***
 
 ### **폴더 업로드(Upload a Folder)**
 

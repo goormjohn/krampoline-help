@@ -46,7 +46,7 @@ Vim 에디터를 열기 위해서는 크램폴린IDE 좌측 레이아웃의 프�
 
 <figure><img src="../../../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
 
-
+***
 
 ### **ZIP/TAR로 압축하기/풀기(Compress or Decompress with ZIP / TAR)**
 
@@ -66,7 +66,7 @@ ZIP/TAR 압축/압축 해제 기능을 이용할 수 있습니다.
 
 <figure><img src="../../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
-
+***
 
 ### **닫기(Close)**
 
