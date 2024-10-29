@@ -40,6 +40,7 @@
       * [단축키](ide/krampolineide-1/etc/shortcut.md)
       * [해당 영역을 쉘에서 실행하기](ide/krampolineide-1/etc/execute.md)
       * [정의된 곳으로 이동하기](ide/krampolineide-1/etc/go-to-definition.md)
+    * [크램폴린IDE 팀프로젝트](ide/krampolineide-1/ide.md)
   * [Git 연동 사용법](ide/git/README.md)
     * [Github 설정](ide/git/github/README.md)
       * [새 컨테이너 Git 설정](ide/git/github/git.md)

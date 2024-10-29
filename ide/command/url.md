@@ -28,6 +28,6 @@
 
 * 그러면 새로운 실행 URL을 등록할 수 있는 창이 나타납니다. 여기에서 실행 URL에 사용할 원하는 prefix와 연결할 애플리케이션의 포트 번호를 입력하고 등록 버튼을 클릭합니다. 그러면 실행 URL이 간단하게 등록됩니다.
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 실행 URL 등록 창에서도 실행 URL의 목록을 볼 수 있으며, 이 곳에서 등록된 실행 URL을 삭제하거나 포트 번호를 수정할 수 있습니다.
